@@ -36,4 +36,4 @@ Requer que o servidor LiveKit esteja rodando (veja o README do `app-backend` par
 - Estilizar com um design system (ex: Tailwind) em vez de estilos inline
 - Migrar para React Native quando quiser lançar mobile de verdade
 - Adicionar tela da loja e assinatura (integrar com Stripe/Mercado Pago)
-- Melhorar tratamento de erros e estados de carregamento
+- Melhorar tratamento de erros e estados de carregamento 
